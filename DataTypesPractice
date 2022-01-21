@@ -1,0 +1,14 @@
+System.out.println(Welcome everyone);
+//my favourite number
+int a = 20;
+int b = 14;
+int sum = a-b;
+System.out.println(sum);
+//my sister's name
+String name = "Naveena";
+System.out.println(name);
+//test marks
+int marks = 89;
+int internal marks = 95;
+result = marks>45 || internal marks == 50;
+System.out.println(result);
