@@ -1,0 +1,14 @@
+my test{
+public class FibonacciSeriesjava {
+public static void maing(String[] arg){
+int a = 0, b = 1, c;
+System.out.print(a+" "+b);
+for(int i = 1; i<=10; i++){
+c = ab;
+System.out.print(" "+c);
+a = b
+b = c;
+}
+}
+}
+}
