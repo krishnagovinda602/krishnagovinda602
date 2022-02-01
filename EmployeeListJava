@@ -1,0 +1,18 @@
+public class employee {
+
+	public static void main(String[] args) {
+	
+		final Object[][] table = new String[4][];
+		table[0] = new String[] { "Name", "Year", "Salary", "City" };
+		table[1] = new String[] { "Robert", "1994", "20000", "Chicago" };
+		table[2] = new String[] { "Sam", "2000", "30000", "Houston" };
+		table[3] = new String[] { "John", "1999", "25000", "Newyork" };
+
+		for (final Object[] row : table) {
+		    System.out.format("%15s%15s%15s%15s%n", row);
+		}
+		
+		
+	}
+
+}
